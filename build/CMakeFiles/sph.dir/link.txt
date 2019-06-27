@@ -1,0 +1,1 @@
+/usr/bin/c++    -L/usr/lib/nvidia-340/ -lGL -lGLU -lglut -lGLEW    CMakeFiles/sph.dir/main.cpp.o CMakeFiles/sph.dir/scrInteractor.cpp.o CMakeFiles/sph.dir/TrackBall.cpp.o  -o sph -rdynamic -lGLU -lGL -lglut -lXmu -lXi 
